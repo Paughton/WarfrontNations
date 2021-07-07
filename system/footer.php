@@ -36,7 +36,7 @@
 						<h5><b>The Site</b></h5>
 						<hr class="footer-line" style="width: 50px;"></hr>
 						<p>&copy; <?php echo date("Y"); ?> Tanktot Games</p>
-						<p>Created by, Silas Carlson</p>
+						<p>Created by, Paughton</p>
 					</div>
 					<div class="col-md-1 mt-md-0 mt-3"></div>
 				</div>
