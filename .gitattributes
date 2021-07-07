@@ -1,7 +1,7 @@
-assets/fontawesome/* linguist-vendored
-assets/bootstrap/* linguist-vendored
-assets/jquery/* linguist-vendored
-cronjobs/logs_daily/*
-cronjobs/logs_score/*
-cronjobs/logs_turn/*
+assets/fontawesome/** linguist-vendored
+assets/bootstrap/** linguist-vendored
+assets/jquery/** linguist-vendored
+cronjobs/logs_daily/** linguist-vendored
+cronjobs/logs_score/** linguist-vendored
+cronjobs/logs_turn/** linguist-vendored
 warfrontnations.sql linguist-vendored
