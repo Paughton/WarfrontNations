@@ -1,0 +1,122 @@
+/* Navbar */
+.home_navbar {
+	background-color: #4176cc;
+	transition: all 0.4s ease;
+	min-height: 15px !important;
+	max-height: 25px !important;
+}
+.home_navbar .nav-link, .navbar-text { color: white !important; }
+/*.home_navbar .nav-link:hover { 
+	background-color: #576e84;
+	border-radius: 5px;
+}*/
+.home_navbar .navbar-brand { color: white; }
+.home_navbar.scrolled {
+	background-color: #305899;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+	min-height: 15px !important;
+	max-height: 25px !important;
+}
+/*.home_navbar .active {
+	background-color: #415263;
+	border-radius: 5px;
+}*/
+/* Navbar */
+
+/* Footer */
+.footer {
+	background-color: #002c56 !important;
+	color: white;
+	font-family: georgia;
+}
+.footer h5 { font-family: georgia; }
+.footer-copyright {
+	background-color: #00172d;
+}
+.footer-products a {
+	color: white;
+}
+.footer-products a:hover {
+	color: lightgray;
+	text-decoration: none;
+}
+.footer-info {
+	font-size: 14px;
+}
+.footer-line { 
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0; 
+}
+/* Footer */
+
+/* Non classes */
+body {
+	/*background-color: #A6A39E;*/
+	padding-top: 65px; 
+}
+h1, h2 {
+	font-family: georgia;
+}
+h5, p {
+	font-family: verdana;
+}
+a:hover {
+	text-decoration: none;
+	transition: all 0.4s ease;
+}
+input[type="submit"] {
+	background-color: #007bff;
+	border-color: #007bff;
+	color: white;
+	width: 100%;
+	height: 35px;
+	border-radius: 5px;
+	font-size: 18px;
+	font-family: verdana;
+}
+input[type="submit"]:hover {
+	background-color: #0069db;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+input[type="text"] {
+	width:100%;
+	height:50px;
+	border-radius:2px;
+	font-size:18px;
+	font-family:verdana;
+}
+/* None Classes */
+
+/* Classes BOIS */
+.output {
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 10px;
+	border: 1px solid #000000;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+}
+.unselectable {
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
+}
+.button-link:hover {
+	text-decoration: none !important;
+}
+/* Classes BOIS */
+
+/* Select */
+.select {
+	font-size: 18px;
+	font-family: verdana;
+}
+/* Select */
